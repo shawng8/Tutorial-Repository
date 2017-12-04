@@ -2,21 +2,13 @@
 tutorial repository
 
 # Markdown
- 
 ## Questions
-
 _Italics_
-
 *Italics*
-
 **Bold**
-
 __Bold__
-
 ___Italics and bold___
-
 **_Italics and bold_**
-
 ~~**_Italics and bold_** this is nonsense~~
 
 
