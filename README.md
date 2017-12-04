@@ -16,3 +16,7 @@ ___Italics and bold___
 - List 2
 - list 3
   - list footer The quick brown fox jumped over the laxy dog. The quick brown fox jumped over the laxy dog. The quick brown fox jumped over the laxy dog. The quick brown fox jumped over the laxy dog. The quick brown fox jumped over the laxy dog. The quick brown fox jumped over the laxy dog.
+
+### Heading test 3
+
+The quick brown fox jumped over the lazy dog.
